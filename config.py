@@ -1,0 +1,1 @@
+db_password = 'PA$$w0rd19*!1212'
